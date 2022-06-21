@@ -19,7 +19,7 @@ Build the project with the following commands:
 
 ```shell
 mkdir build && cd build && cmake .. && make && cd ..
-./indie_studio
+./bomberman
 ```
 
 <br/>
@@ -29,12 +29,12 @@ mkdir build && cd build && cmake .. && make && cd ..
 Add a `build` directory. In it, run this :
 ```shell
 cmake ..
-.\indie_studio.sln
+.\bomberman.sln
 ```
 
 In MSVC, generate the ALL_BUILD target and move the .exe to the project root.
 
-You can now launch the `indie_studio.exe` application.
+You can now launch the `bomberman.exe` application.
 
 
 <br/>
